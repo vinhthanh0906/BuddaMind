@@ -1,0 +1,4 @@
+streamlit 
+sqlalchemy
+python-dotenv
+passlib
